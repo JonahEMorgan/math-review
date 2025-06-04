@@ -1,4 +1,3 @@
 load "../polar.plt"
-set output "lemniscate.svg"
-set trange [0:pi]
-plot sqrt(abs(2 * t))
+set output "lemniscate.eps"
+plot sqrt(sin(2 * t))

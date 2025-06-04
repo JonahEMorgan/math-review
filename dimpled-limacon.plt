@@ -1,3 +1,3 @@
 load "../polar.plt"
-set output "dimpled-limacon.svg"
+set output "dimpled-limacon.eps"
 plot 2 + sin(t)

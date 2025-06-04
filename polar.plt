@@ -7,4 +7,4 @@ set polar
 set grid polar
 set border polar
 set size square
-set term svg
+set term eps

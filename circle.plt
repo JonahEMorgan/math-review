@@ -1,3 +1,3 @@
 load "../polar.plt"
-set output "circle.svg"
+set output "circle.eps"
 plot sin(t)

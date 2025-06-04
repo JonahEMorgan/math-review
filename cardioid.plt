@@ -1,3 +1,3 @@
 load "../polar.plt"
-set output "cardioid.svg"
+set output "cardioid.eps"
 plot 1 + sin(t)
